@@ -1,3 +1,10 @@
+## 1.0.1-edu
+
+- Documentación portable sin rutas personales.
+- Uso de `$USER` en la configuración del modo docente.
+- Correcciones menores de documentación.
+- Sin cambios funcionales en el motor de análisis.
+
 # Changelog
 
 ## 1.0.0-edu — 2026-07-12

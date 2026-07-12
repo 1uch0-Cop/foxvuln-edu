@@ -1,4 +1,4 @@
-# FoxVuln EDU 1.0.0-edu
+# FoxVuln EDU 1.0.1-edu
 
 **Estado:** versión educativa estable  
 **Institución:** Hackcop  
@@ -124,7 +124,7 @@ Incluyen `report.html`, `summary.json`, `findings.csv`, `commands.log`, evidenci
 - `docs/SEGURIDAD_Y_RUIDO.md`
 - `docs/ARQUITECTURA.md`
 - `docs/PUBLICACION_GITHUB.md`
-- `RELEASE_NOTES_1.0.0-edu.md`
-- `AUDIT_1.0.0-edu.md`
+- `RELEASE_NOTES_1.0.1-edu.md`
+- `AUDIT_1.0.1-edu.md`
 
 La licencia permite estudiar, modificar y redistribuir el software. No concede autorización para evaluar sistemas ajenos.

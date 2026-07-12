@@ -47,7 +47,7 @@ from foxvuln_policy import (
 )
 
 APP = "FoxVuln EDU"
-VERSION = "1.0.0-edu"
+VERSION = "1.0.1-edu"
 EDITION = "educational"
 LICENSE_ID = "GPL-3.0-or-later"
 USER_AGENT = f"FoxVuln-EDU/{VERSION} Educational-Lab"
