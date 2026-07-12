@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) 2026 Luis Jofré Pérez
+# 2026 Luis Jofré Pérez
 # SPDX-License-Identifier: GPL-3.0-or-later
 """Interfaz gráfica y CLI de FoxVuln."""
 from __future__ import annotations
