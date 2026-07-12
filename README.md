@@ -91,7 +91,7 @@ nano mi_laboratorio.json
 El ejemplo incluye `Hackcop` como institución. Después instálela y autorice al usuario docente:
 
 ```bash
-./configure_teacher_mode.sh lucho mi_laboratorio.json
+./configure_teacher_mode.sh "$USER" mi_laboratorio.json
 ```
 
 Una política JSON inválida se rechaza con un mensaje controlado y sin exponer un traceback de Python. Cierre la sesión y vuelva a entrar. Luego:
