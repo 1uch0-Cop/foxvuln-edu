@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "institution": "Hackcop",
+  "laboratory": "Laboratorio virtual de ciberseguridad",
+  "allowed_networks": [
+    "192.168.56.0/24",
+    "192.168.122.0/24"
+  ],
+  "allowed_targets": [
+    "127.0.0.1"
+  ],
+  "student_profiles": [
+    "Laboratorio educativo"
+  ],
+  "teacher_profiles": [
+    "Laboratorio educativo",
+    "Laboratorio avanzado (docente)"
+  ],
+  "teacher_group": "foxvuln-teachers",
+  "teacher_mode_enabled": true
+}
